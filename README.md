@@ -1,5 +1,3 @@
-# HR---Analytics---power-bi
-HR Analytics Dashboard using Power BI
 # HR Analytics Dashboard Using Power BI
 
 ## Project Demonstration Video
