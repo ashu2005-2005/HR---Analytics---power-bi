@@ -457,12 +457,6 @@ The analysis provides the following findings:
 
 These findings can help HR teams identify areas requiring further investigation and review.
 
-## 16. Project Demonstration Video
-
-The project demonstration video explains the report development outcome and shows how the different analytical sections and interactive features work.
-
-**Video:** "C:\Users\boddu\Videos\Screen Recordings\Screen Recording 2026-11-15 090639.mp4"
-
 ## 17. Technologies Used
 
 - Microsoft Power BI
@@ -485,10 +479,14 @@ The project demonstration video explains the report development outcome and show
 ![Promotion Analysis](Performance_Promotion.png)
 
 ### 5. Retrenchment Analysis
-![Retrenchment Analysis](Retrenchment_Analysis.png)
+![Retrenchment Analysis](HR_dashboard_watch_video.mp4)
 
 ### 6. Employee Risk Analysis
 ![Risk Analysis](Risk_Analysis.png)
 
 ### 7. Employee Drill-through
 ![Employee Drillthrough](Drillthrough.png)
+
+## Project Demonstration Video
+
+[Watch the HR Analytics Dashboard Demonstration](HR_dashboard_watch_video.mp4)
