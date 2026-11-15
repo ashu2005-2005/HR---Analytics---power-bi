@@ -476,19 +476,19 @@ The project demonstration video explains the report development outcome and show
 ![HR Dashboard](Dashboard.png)
 
 ### 2. Employee Engagement Analysis
-![Engagement Analysis](Employee Engagement.png)
+![Engagement Analysis](Employee_Engagement.png)
 
 ### 3. Workforce and Compensation
-![Workforce Analysis](Workforce & Compensation.png)
+![Workforce Analysis](Workforce_Compensation.png)
 
 ### 4. Performance and Promotion
-![Promotion Analysis](Performance & Promotion.png)
+![Promotion Analysis](Performance_Promotion.png)
 
 ### 5. Retrenchment Analysis
-![Retrenchment Analysis](Retrenchment Analysis.png)
+![Retrenchment Analysis](Retrenchment_Analysis.png)
 
 ### 6. Employee Risk Analysis
-![Risk Analysis](Risk Analysis.png)
+![Risk Analysis](Risk_Analysis.png)
 
 ### 7. Employee Drill-through
-![Employee Drillthrough](DrillT hrough.png)
+![Employee Drillthrough](Drillthrough.png)
